@@ -3,7 +3,7 @@
 import pandas as pd
 import os
 Folder_Path = r"E:\movielens_data\csvFolder"  # 要拼接的文件夹及其完整路径，注意不要包含中文
-SaveFile_Path = r"E:\movielens_data"  # 拼接后要保存的文件路径
+SaveFile_Path = r"E:\movielens_data\data_process"  # 拼接后要保存的文件路径
 SaveFile_Name = r'all.csv'  # 合并后要保存的文件名
 
 # 修改当前工作目录
